@@ -1,0 +1,40 @@
+.meal-position-wrapper {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #eee;
+}
+
+.position-left-side {
+    display: flex;
+    flex-direction: column;
+    padding: 1.5em;
+    line-height: 2em;
+}
+
+.position-right-side {
+    max-width: 14em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5em;
+    gap: 1em;
+}
+
+.position-right-side label {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.position-right-side input {
+    width: 20%;
+    padding: 0 1em;
+    border: 1px solid rgb(228, 228, 228);
+    border-radius: 0.5em;
+}
+
+.provide-order__wrapper {
+    display: flex;
+    justify-content: space-evenly;
+
+}

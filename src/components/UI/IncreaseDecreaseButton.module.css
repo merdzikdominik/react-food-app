@@ -1,0 +1,11 @@
+.increase-button {
+    border: 1px solid brown;
+    border-radius: 0.5em;
+    width: 3em;
+    height: 2em!important; 
+    margin: auto 0;
+    font-size: 20px;
+    font-weight: 600;
+    color: brown;
+    background-color: #fff;
+}

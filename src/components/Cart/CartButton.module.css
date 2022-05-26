@@ -1,0 +1,29 @@
+.cart-button-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    width: 15em;
+    padding: 0.5em;
+    background-color: #8B3500;
+    cursor: pointer;
+}
+
+.cart-button-wrapper span, .fa-icon-settings, .counter {
+    color: #fff;
+    padding: 0.6em;
+    font-size: 1.2em;
+}
+
+.cart-button-wrapper span {
+    font-weight: 600;
+}
+
+.fa-icon-settings {
+    margin-top: 0.3em;
+}
+
+.counter {
+    background-color: #C64B00;
+    margin: auto 0;
+    font-weight: 600;
+    padding: 0.4em;
+}

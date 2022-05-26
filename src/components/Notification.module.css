@@ -1,0 +1,21 @@
+.hero-section__welcome {
+    max-width: 45em;
+    padding: 1em;
+    color: #fff;
+    text-align: center;
+    line-height: 2.5em;
+    background-color: #333;
+    position: absolute;
+    top: 31%;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.hero-section__welcome h1 {
+    padding: 0.5em;
+}
+
+.hero-section-paragraph {
+    line-height: 2em;
+}

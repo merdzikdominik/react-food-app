@@ -1,0 +1,41 @@
+.ordered-meal {
+    border-bottom: 2px solid brown;
+}
+
+.ordered-meal h2{
+    padding: 1em;
+}
+
+.ordered-meal__wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+}
+
+.ordered-meal__price-amount {
+    display: flex;
+    justify-content: space-between;
+    gap: 1em;
+}
+
+.ordered-meal__buttons {
+    display: flex;
+    justify-content: space-around;
+    gap: 1em;
+}
+
+.ordered-meal__price-amount h3 {
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    padding: 1em;
+    color: brown;
+}
+
+.ordered-meal__price-amount span {
+    font-weight: 700;
+    font-size: 18px;
+    border: 1px solid #333;
+    border-radius: 0.5em;
+    padding: 1em;
+}
